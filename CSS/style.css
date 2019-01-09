@@ -1,0 +1,635 @@
+.title
+{
+	background-color: grey;
+}
+.MENU
+{
+	position:absolute;
+}
+
+body
+ { font-family: "new century schoolbook"; }
+p{
+	text-shadow: 1px 1px black;
+	
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.YTVID
+{
+	position:relative;
+	top:15em;
+	left:5em;
+	
+    border: 2px solid;
+	border-color: white;
+}
+div.gallery1 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: 5em;
+  position: relative;
+  left: 32em;
+  background-color:pink;
+}
+.WP1
+{
+	height:20em;
+	width:20em;
+}
+div.gallery2 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: 5em;
+  position: relative;
+  left: 32em;
+  background-color:pink;
+}
+.WP2
+{
+	height:20em;
+	width:20em;
+}
+div.gallery3 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: 5em;
+  position: relative;
+  left: 32em;
+  background-color:pink;
+}
+.WP3
+{
+	height:20em;
+	width:20em;
+}
+div.gallery4 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: 30em;
+  position: relative;
+  left: -30.25em;
+  background-color:pink;
+}
+.WP4
+{
+	height:20em;
+	width:20em;
+}
+div.gallery5 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: 30em;
+  position: relative;
+  left: -30.2em;
+  background-color:pink;
+}
+.WP5
+{
+	height:20em;
+	width:20em;
+}
+div.gallery6 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: 5.9em;
+  position: relative;
+  left: 73.5em;
+  background-color:pink;
+}
+.WP6
+{
+	height:20em;
+	width:20em;
+}
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+h1.logo{
+	float:Left;
+	background-color:Pink;
+	box-sizing: border-box;
+	font-size:1.5em;
+	Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+	border-color: white;
+	margin-left: 3%;
+	color:White;
+	text-shadow: 1px 1px black;
+	
+}
+h1.aboutlogo{
+	float:Left;
+	background-color:Pink;
+	box-sizing: border-box;
+	font-size:1.5em;
+	Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+	border-color: white;
+	margin-left: 3%;
+	color:White;
+	text-shadow: 1px 1px black;
+	
+}
+
+.Dropdowns{
+  padding: 0.25 em%;
+  margin: 1%;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+  
+}
+
+.flex-item {
+  background: Pink;
+  padding: 1px;
+  width: 80px;
+  height: 50px;
+  margin-top: 15px;
+ 
+  line-height: 35px;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+  text-align: center;
+  box-sizing: border-box;
+ 	border-radius: 10px;
+    border: 2px solid;
+	text-shadow: 1px 1px black;
+	
+	
+}
+p.HomeInfo
+{
+	Font-size: 1.2em;
+	
+	overflow: hidden;
+}
+.HomeLOGO
+{
+	position: absolute;
+	Height:200px;
+	Width: 200px;
+	left: 5em;
+	top: 45em;
+}
+
+
+
+
+div.HOMEBOX
+{
+    box-sizing: border-box;
+    background-color: Pink;
+    width: 25%;
+    float: left;
+	overflow: hidden;
+	margin-left: 3%;
+	Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+    border-color: white;
+	position: absolute;
+	text-shadow: 1px 1px black;
+}
+div.ABOUTBOX
+{
+    box-sizing: border-box;
+    background-color: Pink;
+    width: 25%;
+    float: left;
+	overflow: hidden;
+	margin-left: 3%;
+	Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+    border-color: white;
+	position:absolute;
+	
+	
+	
+}
+div.THBOX
+{
+	height:4em;
+    box-sizing: border-box;
+    background-color: Pink;
+    width: 10%;
+    float: left;
+	overflow: hidden;
+	margin-left: 3%;
+	Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+    border-color: white;
+	position: absolute;
+	text-shadow: 1px 1px black;
+	
+}
+.MID2
+{
+	box-sizing: border-box;
+    background-color: Pink;
+	height:50px;
+	width:275px;
+	border-radius: 15px;
+    border: 2px solid;
+	border-color: white;
+	position: relative;
+	text-shadow: 1px 1px black;
+	left: 42.5%;
+	top: 24em;
+	font-size: 14px;
+	
+}
+.OVOBOX
+{
+	box-sizing: border-box;
+    background-color: Pink;
+    width: 25%;
+    float: left;
+	overflow: hidden;
+	margin-left: 3%;
+	Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+    border-color: white;
+	position:absolute;
+	
+	
+}
+
+.Drake{
+	float:right;
+	    width: 50%;
+		overflow: hidden;
+       top: 10em;
+        height: 100%;
+}
+
+	
+
+section.HOME
+{
+	background-color: grey;
+	    overflow: hidden;
+    display: block;
+	height: 900px;
+	border-bottom: 4px dotted black;
+	
+}
+header.title
+{
+	display: block;
+    overflow: hidden;
+}
+#MENU{
+		position: fixed;
+		right: 20px;
+		top: 0px;
+		width: 400px;
+		background-color: none;
+		}
+		
+a:link {
+    text-decoration: none;
+	color:White;
+}
+
+a:visited {
+    text-decoration: none;
+	color:white;
+}
+
+a:hover {
+    text-decoration: none;
+	color:Grey;
+}
+
+a:active {
+    text-decoration: none;
+}
+.socials{
+	position: fixed;
+	left: 50%;
+	right: 50%;		
+	top: 20px;
+	width: 150px;
+	background-color:Pink;
+	box-sizing: border-box;
+	font-size:1em;
+	Padding:10px;
+	border-radius: 15px;
+    border: 2px solid;
+	border-color: white;
+
+	color:White;
+	overflow: hidden;
+	height: 50px
+		}	
+	
+	.insta
+	{
+		top:5px;
+		float:left;
+		position: absolute;
+	
+		height:40px;
+		width:40px;
+		
+		
+	}
+	.YTIMG
+	{
+	top:-15px;
+	left:30px;
+		position:absolute;
+		right: 5px;
+		float:right;
+	height: 80px;
+		width: 80px;
+		
+		
+	}
+	.Twit
+	{
+	top:-5px;
+	left:80px;
+		position:absolute;
+		right: 5px;
+		float:right;
+	height: 60px;
+		width: 60px;
+		
+		
+	}
+	
+	
+	section.About
+	{
+		display: block;
+		background-color: grey;
+		overflow: hidden;
+		width : 100;
+		Height: 900px;
+		border-bottom: 4px dotted black;
+	}
+	section.MUSIC
+	{
+		background-color: grey;
+		height: 900px;
+		border-bottom: 4px dotted black;
+	}
+	section.OVO
+	{
+		display: block;
+		background-color: grey;
+		height: 900px;
+		overflow: hidden;
+		width: 100;
+		border-bottom: 4px dotted black;
+	}
+	.TAKECARE
+	{
+		Width:100px;
+		Height:100px;
+		 position: relative;
+         left: 80em;
+         top: 4em;
+		
+		overflow: hidden;\
+		Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+		
+	}
+	.Scorpion
+	{
+		Width:100px;
+		Height:100px;
+		 position: relative;
+         left: 80em;
+         top: 10em;
+		
+		overflow: hidden;\
+		Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+		
+	}
+	.NWTS
+	{
+		Width:100px;
+		Height:100px;
+		 position: relative;
+         left: 20em;
+         top: -16.5em;
+		
+		overflow: hidden;\
+		Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+		
+	}
+	.MORELIFE
+	{
+		Width:100px;
+		Height:100px;
+		 position: relative;
+         left: 20em;
+         top: -10.5em;
+		
+		overflow: hidden;\
+		Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+		
+	}
+	.READING
+	{
+		Width:100px;
+		Height:100px;
+		 position: relative;
+         left: 20em;
+         top: -4.5em;
+		
+		overflow: hidden;\
+		Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+		
+	}
+	.THANK
+	{
+		Width:100px;
+		Height:100px;
+		 position: relative;
+         left: 50em;
+         top: -37em;
+		
+		overflow: hidden;\
+		Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+		
+	}
+	.FAR
+	{
+		Width:100px;
+		Height:100px;
+		 position: relative;
+         left: 50em;
+         top: -18em;
+		
+		overflow: hidden;\
+		Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+		
+	}
+	.Views
+	{
+		Width:100px;
+		Height:100px;
+		 position: relative;
+         left: 80em;
+         top: 16em;
+		
+		overflow: hidden;\
+		Padding: 10px;
+	border-radius: 15px;
+    border: 2px solid;
+		
+	}
+	.OVOIMG
+	{
+		height: 15em;
+		Width: 15em;
+		top: 4em;
+		left:4em;
+		
+		overflow: hidden;	
+	}
+	div.gallery7 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: -10em;
+  position: relative;
+  left: 32em;
+  background-color:pink;
+}
+.WP7
+{
+	height:20em;
+	width:20em;
+}
+div.gallery8 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: -10em;
+  position: relative;
+  left: 32em;
+  background-color:pink;
+}
+.WP8
+{
+	height:20em;
+	width:20em;
+}
+div.gallery9 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: -10em;
+  position: relative;
+  left: 32em;
+  background-color:pink;
+}
+.WP9
+{
+	height:20em;
+	width:20em;
+}
+div.gallery10 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: 14em;
+  position: relative;
+  left: -30.25em;
+  background-color:pink;
+}
+.WP10
+{
+	height:20em;
+	width:20em;
+}
+div.gallery11 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: 14em;
+  position: relative;
+  left: -30.2em;
+  background-color:pink;
+}
+.WP11
+{
+	height:20em;
+	width:20em;
+}
+div.gallery12 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 20em;
+  top: -10em;
+  position: relative;
+  left: 73.5em;
+  background-color:pink;
+}
+.WP12
+{
+	height:20em;
+	width:20em;
+}
+	
